@@ -1,0 +1,20 @@
+bcrypt==3.1.4
+certifi==2018.8.24
+cffi==1.11.5
+click==7.1.2
+dnspython==1.16.0
+email-validator==1.1.1
+Flask==1.1.2
+Flask-Bcrypt @ file:///tmp/build/80754af9/flask-bcrypt_1592513356562/work
+Flask-Login==0.5.0
+Flask-WTF==0.14.3
+idna==2.10
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+peewee==3.13.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+six==1.15.0
+Werkzeug==1.0.1
+wincertstore==0.2
+WTForms @ file:///tmp/build/80754af9/wtforms_1597707484216/work
